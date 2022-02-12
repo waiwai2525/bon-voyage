@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bon-voyage/precache-manifest.b89ff2aa8cbb8191045beefbe272651c.js"
+  "/bon-voyage/precache-manifest.04f0fdb08e6fdf29d28447e06accc2d9.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "bon-voyage"});
